@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.lcp-card{
+  margin: 20px;
+}
+
+.lcp-logo{
+  height: 100px;
+}
+
+.lcp-logo-formulario{
+  width: 100%;
+}
+
+.lcp-card-image{
+  border-radius: 10px;
+  width: 300px;
+  height: 480px;
+  box-shadow: 0px 0px 3px 1px #ccc;
+}
+
+.lcp-card-info{
+  margin-top: 10px;
+  min-height: 100px;
+}
+
+.lcp-card-titulo{
+  font-size: 24px;
+  margin: 0px;
+}
+
+.lcp-card-subtitulo{
+  font-size: 16px;
+  margin: 0px;
+}
+
+.success-msg{
+  color:#57A773;
+  padding: 10px 15px;
+}
+
+.err-msg{
+  color:#EE6352;
+  padding: 10px 15px;
+}
+
+.body-image{
+  background-image: url("./assets/images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.footer-image{
+  background-image: url("./assets/images/Cat.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: left bottom;
+}
