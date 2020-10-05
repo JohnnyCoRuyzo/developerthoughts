@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/developerthoughts/static/css/main.d860b3ab.chunk.css",
+    "main.js": "/developerthoughts/static/js/main.591dac00.chunk.js",
+    "main.js.map": "/developerthoughts/static/js/main.591dac00.chunk.js.map",
+    "runtime-main.js": "/developerthoughts/static/js/runtime-main.a10530b5.js",
+    "runtime-main.js.map": "/developerthoughts/static/js/runtime-main.a10530b5.js.map",
+    "static/css/2.ed890e5e.chunk.css": "/developerthoughts/static/css/2.ed890e5e.chunk.css",
+    "static/js/2.244860e1.chunk.js": "/developerthoughts/static/js/2.244860e1.chunk.js",
+    "static/js/2.244860e1.chunk.js.map": "/developerthoughts/static/js/2.244860e1.chunk.js.map",
+    "index.html": "/developerthoughts/index.html",
+    "precache-manifest.ce79b9dad989ab18052a09901bbf526a.js": "/developerthoughts/precache-manifest.ce79b9dad989ab18052a09901bbf526a.js",
+    "service-worker.js": "/developerthoughts/service-worker.js",
+    "static/css/2.ed890e5e.chunk.css.map": "/developerthoughts/static/css/2.ed890e5e.chunk.css.map",
+    "static/css/main.d860b3ab.chunk.css.map": "/developerthoughts/static/css/main.d860b3ab.chunk.css.map",
+    "static/js/2.244860e1.chunk.js.LICENSE.txt": "/developerthoughts/static/js/2.244860e1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/developerthoughts/static/media/background.366e1bee.jpg",
+    "static/media/Little_Crazy_Pets_Logo.png": "/developerthoughts/static/media/Little_Crazy_Pets_Logo.9d7c175d.png",
+    "static/media/MilaImagen.jpg": "/developerthoughts/static/media/MilaImagen.a42b5a6e.jpg",
+    "static/media/NegritaImagen.jpg": "/developerthoughts/static/media/NegritaImagen.e97ef24d.jpg",
+    "static/media/NovaImagen.jpg": "/developerthoughts/static/media/NovaImagen.d964b2f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a10530b5.js",
+    "static/css/2.ed890e5e.chunk.css",
+    "static/js/2.244860e1.chunk.js",
+    "static/css/main.d860b3ab.chunk.css",
+    "static/js/main.591dac00.chunk.js"
+  ]
+}
