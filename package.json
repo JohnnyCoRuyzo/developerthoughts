@@ -1,7 +1,8 @@
 {
-  "name": "little.crazy.pets",
+  "name": "developerthoughts",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://johnnycoruyzo.github.io/developerthoughts",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
@@ -20,6 +21,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
